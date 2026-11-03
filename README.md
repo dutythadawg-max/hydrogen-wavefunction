@@ -1,6 +1,6 @@
 Hydrogen Wavefunctions: Implementation and Validation
 
-This repo computes non-relativistic hydrogen atom wavefunctions in atomic units, where the Bohr radius $a_0 = 1$. It builds the radial functions $R_{nl}(r)$ from associated Laguerre polynomials, the angular functions $Y_l^m(\theta, \phi)$ from spherical harmonics, and the full wavefunctions $\psi_{nlm}(r, \theta, \phi) = R_{nl}(r) Y_l^m(\theta, \phi)$. It also checks the results numerically against known analytical values. Please if you might fact check me since l am not a physicist nor a coder l just wanted to try out vibe coding. thanks 
+This repo computes non-relativistic hydrogen atom wavefunctions in atomic units, where the Bohr radius $a_0 = 1$. It builds the radial functions $R_{nl}(r)$ from associated Laguerre polynomials, the angular functions $Y_l^m(\theta, \phi)$ from spherical harmonics, and the full wavefunctions $\psi_{nlm}(r, \theta, \phi) = R_{nl}(r) Y_l^m(\theta, \phi)$. It also checks the results numerically against known analytical values. Please if you might fact check me since l am not a physicist and most of the formulas are from deepseek.thanks also dont hate pls 
 
 Setup
 Prerequisites

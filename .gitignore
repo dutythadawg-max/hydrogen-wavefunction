@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Exclude generated plots from git tracking (OPTIONAL)
+# If you want the images on GitHub, leave these uncommented.
+# radial_probability_density.png
+# angular_probability_density.png
+# real_orbitals_1s2p3d.png
+# orbital_3d_volume.png
